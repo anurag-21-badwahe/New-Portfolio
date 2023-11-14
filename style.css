@@ -207,7 +207,7 @@ nav a:hover::after {
 }
 
 .project-info {
-    font-size: 1.125rem;
+    font-size: 1rem;
     font-weight: 300;
     margin-bottom: 0.3rem;
 }
@@ -419,3 +419,4 @@ footer nav ul {
         opacity: 1;
     }
 }
+
